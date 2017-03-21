@@ -1,0 +1,12 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+canvas {
+	display: block;
+	width: 450px;
+	height: 450px;
+	margin: 50px auto;
+	-webkit-box-shadow: -2px -2px 2px #efefef, 5px 5px 5px #bfbfbf;
+	box-shadow: -2px -2px 2px #efefef, 5px 5px 5px #bfbfbf;
+}
